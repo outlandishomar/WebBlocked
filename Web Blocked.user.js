@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WebBlocked
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Blocks specific sites of your choose
 // @author       outlandishomar
 // @match        *://*/*
